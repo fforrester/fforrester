@@ -1,5 +1,5 @@
 ## Hi! 👋
-Check out my personal website [seankavanagh.com](https://seankavanagh.com) if you want to know more about me and my research!
+<? Check out my personal website [seankavanagh.com](https://seankavanagh.com) if you want to know more about me and my research! ?>
 
 <!--
 [![Seán's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=kavanase&include_orgs=true&count_private=true&show_icons=true&theme=radical&role=OWNER,COLLABORATOR)](https://github.com/kavanase)
