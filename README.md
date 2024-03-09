@@ -1,5 +1,5 @@
 ## Hi! 👋
-<? Check out my personal website [seankavanagh.com](https://seankavanagh.com) if you want to know more about me and my research! ?>
+Check out my personal website [frazerforrester.com](https://frazerforrester.com) to see more about me and my research! 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fforrester?cardType=github&preferLogin=false)]()
 
